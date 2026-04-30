@@ -1,12 +1,10 @@
-# 👋 Привет, я [@neuraCollab](https://github.com/neuraCollab)
+# 👋 Hi, I'm Mike
 
-🎓 Mike — СПБГУ: большие данные и распределённые цифровые платформы.  
-👀 Интересуюсь машинным обучением, нейроинтерфейсами и веб-разработкой
-💻 Опыт full-stack разработки: распределённые вычисления, веб-разработка, интеграции.
+💻 I'm interested in machine learning, neural interfaces, and web development
 
 ---
 
-### ⚙️ Основные навыки
+### ⚙️ Key Skills
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=000)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
@@ -21,12 +19,11 @@
 
 ---
 
-### 📊 GitHub Статистика
+### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=neuraCollab&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neuraCollab&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neuraCollab&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-### 🌐 Контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/vbjgfc)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mihiailpersonalemail@gmail.com)
+### 🌐 Contacts
+[![Telegram](http://t.me/vbjgfc)
